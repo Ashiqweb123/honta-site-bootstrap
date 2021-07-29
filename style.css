@@ -4,6 +4,7 @@
 
 .bike-collect {
     color: #E76F51;
+    margin-bottom: 0px;
 }
 
 .bike-img img {
@@ -12,4 +13,21 @@
 
 .clint {
     color: #E76F51;
+}
+
+.btn {
+    background-color: #E76F51;
+}
+
+.line {
+    width: 57px;
+    border: 1px solid #E76F51;
+    border-radius: 1px;
+    margin: 0 auto;
+}
+
+.card .img-card {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
 }
