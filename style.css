@@ -1,10 +1,15 @@
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .top-banner {
     background: #264653;
 }
 
 .bike-collect {
     color: #E76F51;
-    margin-bottom: 0px;
 }
 
 .bike-img img {
